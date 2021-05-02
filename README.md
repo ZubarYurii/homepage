@@ -1,2 +1,3 @@
 # Homepage
-personal website homepage resume gh-pages html css binary-studio-academy bsa21
+
+My very own personal website. Basically this is just a résumé.
